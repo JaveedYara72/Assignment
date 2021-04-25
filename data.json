@@ -1,0 +1,14 @@
+[
+    {
+        "status": 200,
+        "message": "The Emails have been sent successfully!",
+        "data":{
+            "success":[
+                "yarababugari.javeed@iiitg.ac.in",
+                "javeedmrfcricket@gmail.com",
+                "javeedyara.bitsian@gmail.com"
+            ],
+            "failure":[]
+        }
+    }
+]
